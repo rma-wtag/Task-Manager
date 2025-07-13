@@ -72,7 +72,7 @@ All domain rules live here, split into focused components:
 
 ### User‑specific Queries
 
-![User‑specific queries](TaskManager/images/query.png)
+![User‑specific queries](TaskManager/images/queryNew.png)
 
 ### All Tasks with Pagination
 
