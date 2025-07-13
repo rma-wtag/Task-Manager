@@ -74,9 +74,12 @@ All domain rules live here, split into focused components:
 
 ![User‑specific queries](TaskManager/images/query.png)
 
-### All Tasks
+### All Tasks with Pagination
 
-![All tasks](TaskManager/images/allData.png)
+![All tasks](TaskManager/images/pagination.png)
+
+### Get Task by Id 
+![Task By Id](TaskManager/images/taskById.png)
 
 ## Limitations
 
