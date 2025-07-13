@@ -14,7 +14,7 @@ namespace TaskManager.Datas
         private readonly string _filePath;
 
         private List<CustomTask> _tasks { get; set; }
-        public DataRepository(IFileRepository fileRepository,string path)
+        public DataRepository(IFileRepository fileRepository, string path)
         {
             _fileRepository = fileRepository;
             _filePath = path;
@@ -32,23 +32,17 @@ namespace TaskManager.Datas
             return _tasks;
         }
 
-        public void Update(string id, string title,string description, DateTime date, bool isCompleted)
+        public void Update(string id, string title, string description, DateTime date, bool isCompleted)
         {
             Guid gid = Guid.Parse(id);
-            for (int i = 0; i < _tasks.Count(); i++)
-            {
-                if (_tasks[i].Id == gid)
-                {
-                    _tasks[i] = new CustomTask
-                    {
-                        Id = _tasks[i].Id,
-                        DueDate = date,
-                        Title = title,
-                        Description = description,
-                        IsCompleted = isCompleted
 
-                    };
-                }
+            var taskUpdate = _tasks.FirstOrDefault(t => t.Id == gid);
+            if (taskUpdate != null)
+            {
+                taskUpdate.Title = title;
+                taskUpdate.Description = description;
+                taskUpdate.DueDate = date;
+                taskUpdate.IsCompleted = isCompleted;
             }
 
         }
@@ -56,19 +50,11 @@ namespace TaskManager.Datas
         public void Delete(string id)
         {
             Guid gid = Guid.Parse(id);
-            var newTasks = new List<CustomTask>();
-            foreach (var task in _tasks)
-            {
-                if (task.Id != gid)
-                {
-                    newTasks.Add(task);
-                }
-            }
-
-            _tasks = newTasks;
+            _tasks.RemoveAll(t => t.Id == gid);
         }
 
-        public void Save() {
+        public void Save()
+        {
             _fileRepository.Write(_filePath, _tasks);
         }
     }
