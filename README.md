@@ -24,7 +24,7 @@ extensibility.
 
 ## System Architecture
 
-![Component‑Level Block Diagram](images/architecture.png)
+![Component‑Level Block Diagram](TaskManager/images/architecture.png)
 
 ### User Interaction Layer
 - Handles all console I/O.  
@@ -72,11 +72,11 @@ All domain rules live here, split into focused components:
 
 ### User‑specific Queries
 
-![User‑specific queries](images/query.png)
+![User‑specific queries](TaskManager/images/query.png)
 
 ### All Tasks
 
-![All tasks](images/allData.png)
+![All tasks](TaskManager/images/allData.png)
 
 ## Limitations
 
