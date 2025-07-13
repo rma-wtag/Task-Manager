@@ -1,0 +1,28 @@
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+F:\Development\Web Development\dotnet development\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
+C:\Mahin\TSE Learning\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Mahin\TSE Learning\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Mahin\TSE Learning\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Mahin\TSE Learning\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Mahin\TSE Learning\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Mahin\TSE Learning\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll

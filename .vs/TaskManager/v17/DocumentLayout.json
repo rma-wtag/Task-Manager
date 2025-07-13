@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahin\\TSE Learning\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\bin\\Debug\\net8.0\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager\\bin\\Debug\\net8.0\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskmanagerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanagerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskactions\\taskgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskactions\\taskgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\consoleinteractions\\consoleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\consoleinteractions\\consoleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskactions\\taskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskactions\\taskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\models\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\customtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\fileaccess\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\fileaccess\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\datas\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\datas\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskactions\\taskcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskactions\\taskcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\datas\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\datas\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\consoleinteractions\\iconsoleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\consoleinteractions\\iconsoleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskactions\\taskdeletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskactions\\taskdeletor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|c:\\mahin\\tse learning\\taskmanager\\taskmanager\\taskactions\\taskeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138E0A6E-8F66-466A-937D-F2E897D0A97C}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskactions\\taskeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\FileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\IFileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tasks.json",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\bin\\Debug\\net8.0\\tasks.json",
+              "RelativeDocumentMoniker": "TaskManager\\bin\\Debug\\net8.0\\tasks.json",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\bin\\Debug\\net8.0\\tasks.json",
+              "RelativeToolTip": "TaskManager\\bin\\Debug\\net8.0\\tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T06:20:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\FileAccess\\FileRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\FileAccess\\FileRepository.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\FileAccess\\FileRepository.cs",
+              "RelativeToolTip": "TaskManager\\FileAccess\\FileRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:53:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskGetter.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskGetter.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskActions\\TaskGetter.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskGetter.cs",
+              "RelativeToolTip": "TaskManager\\TaskActions\\TaskGetter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:43:11.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Datas\\DataRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Datas\\DataRepository.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Datas\\DataRepository.cs",
+              "RelativeToolTip": "TaskManager\\Datas\\DataRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:13:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleInteraction.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\ConsoleInteractions\\ConsoleInteraction.cs",
+              "RelativeDocumentMoniker": "TaskManager\\ConsoleInteractions\\ConsoleInteraction.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\ConsoleInteractions\\ConsoleInteraction.cs",
+              "RelativeToolTip": "TaskManager\\ConsoleInteractions\\ConsoleInteraction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:23:29.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskQuery.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskQuery.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskActions\\TaskQuery.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskQuery.cs",
+              "RelativeToolTip": "TaskManager\\TaskActions\\TaskQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:32:21.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:20:43.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskManager.cs",
+              "RelativeToolTip": "TaskManager\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:30:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagerApp.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskManagerApp.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManagerApp.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskManagerApp.cs",
+              "RelativeToolTip": "TaskManager\\TaskManagerApp.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:26:23.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomTask.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Models\\CustomTask.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\CustomTask.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Models\\CustomTask.cs",
+              "RelativeToolTip": "TaskManager\\Models\\CustomTask.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:52:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Datas\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Datas\\IDataRepository.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\Datas\\IDataRepository.cs",
+              "RelativeToolTip": "TaskManager\\Datas\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:12:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskCreator.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskCreator.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskActions\\TaskCreator.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskCreator.cs",
+              "RelativeToolTip": "TaskManager\\TaskActions\\TaskCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:28:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConsoleInteraction.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\ConsoleInteractions\\IConsoleInteraction.cs",
+              "RelativeDocumentMoniker": "TaskManager\\ConsoleInteractions\\IConsoleInteraction.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\ConsoleInteractions\\IConsoleInteraction.cs",
+              "RelativeToolTip": "TaskManager\\ConsoleInteractions\\IConsoleInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:30:16.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskDeletor.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskDeletor.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskActions\\TaskDeletor.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskDeletor.cs",
+              "RelativeToolTip": "TaskManager\\TaskActions\\TaskDeletor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T21:04:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskEditor.cs",
+              "DocumentMoniker": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskEditor.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskActions\\TaskEditor.cs",
+              "ToolTip": "C:\\Mahin\\TSE Learning\\TaskManager\\TaskManager\\TaskActions\\TaskEditor.cs",
+              "RelativeToolTip": "TaskManager\\TaskActions\\TaskEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:08:50.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\FileRepository.cs",
+              "ToolTip": "F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\FileRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:39:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\IFileRepository.cs",
+              "ToolTip": "F:\\Development\\Web Development\\dotnet development\\TaskManager\\TaskManager\\DataAccess\\IFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:47:16.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

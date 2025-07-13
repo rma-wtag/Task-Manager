@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "9ed96374-6a43-428e-af4b-f604258cbb12",
+    "Title": "Run",
+    "Description": "I want to run in the morning",
+    "DueDate": "2009-08-22T00:00:00",
+    "IsCompleted": false
+  },
+  {
+    "Id": "394d9a8e-3809-495e-b563-cc40fd7b6776",
+    "Title": "Swim",
+    "Description": "I have to swim everyday",
+    "DueDate": "2025-07-10T00:00:00",
+    "IsCompleted": false
+  },
+  {
+    "Id": "8f249a7f-c822-416c-8296-d7fb14b5fec4",
+    "Title": "Meeting with Mentor",
+    "Description": "Will discuss about learning",
+    "DueDate": "2025-07-12T00:00:00",
+    "IsCompleted": false
+  },
+  {
+    "Id": "42128953-6db1-4b9d-90db-4668879cec54",
+    "Title": "Meeting with TL",
+    "Description": "Will discuss about upcoming projects",
+    "DueDate": "2025-07-10T00:00:00",
+    "IsCompleted": true
+  }
+]
